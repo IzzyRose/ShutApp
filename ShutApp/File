@@ -1,0 +1,16 @@
+Counter variable each update of vol score
+    If red -> ++
+    If yellow -> nothing
+    If green -> --
+    If counter >= 10 -> alert
+
+Hush button alerts residents of room
+    Push notif first time
+    Alert second time
+    ID system for rooms
+        If ID is hushed -> send proper response to ID anonymously
+            Keep record for admin
+        Store on FIRE
+            Push notif doesn't have to work since we don't have authorship permits, use vibration instead
+
+
